@@ -52,7 +52,7 @@ ex) [15장 마치며] MJ
 ### Folder Structure
 
 ```
-MDR-eact
+Root
   ├─ 1장-MJ
   ├─ 2장-MJ
   ├─ 3장-MJ
