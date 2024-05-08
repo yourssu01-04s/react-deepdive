@@ -42,7 +42,8 @@
 
   - 최근 12달 동안 IE 점유율이 0.1% 이고 Edge의 IE 모드도 29년에 종료인데 꼭 지원해야 하는 경우가 있을까..?
 
-    <div id="all-browser-KR-monthly-202304-202404" width="600" height="400" style="width:600px; height: 400px;"></div><p>Source: <a href="https://gs.statcounter.com/browser-market-share/all/south-korea">StatCounter Global Stats - Browser Market Share</a></p><script type="text/javascript" src="https://www.statcounter.com/js/fusioncharts.js"></script><script type="text/javascript" src="https://gs.statcounter.com/chart.php?all-browser-KR-monthly-202304-202404&chartWidth=600"></script>
+    ![image](https://github.com/yourssu-01s/react-deepdive/assets/87255462/15af5a28-7fa4-4f30-9357-b6adafb3691f)
+
 
 ### 15.1.3 서버 사이드 렌더링 애플리케이션을 우선적으로 고려한다
 
