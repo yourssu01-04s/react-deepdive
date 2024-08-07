@@ -1,5 +1,8 @@
 # Yourssu 01-04년생들의 리액트 딥다이브
 
+|      MJ       |         Bori         |       Stella        |       Chae-ri         |       Juun        |        Jerome        |        Ssol        |                                                                                                    
+| :-----------------------: | :--------------------------: | :-----------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: | 
+| <a href="https://github.com/minai621"> <img width="170px" src="https://avatars.githubusercontent.com/u/80272444?v=4" > </a> | <a href="https://github.com/nijuy"> <img width="170px" src="https://avatars.githubusercontent.com/u/87255462?v=4" > </a> | <a href="https://github.com/intersoom"> <img width="170px" src="https://avatars.githubusercontent.com/u/78731710?v=4" > </a> | <a href="https://github.com/seocylucky"> <img width="170px" src="https://github.com/Draw-Draw/.github/assets/94633589/503d8975-fa59-460d-bafd-37a8c0830aff" > </a> | <a href="https://github.com/2wndrhs"> <img width="170px" src="https://avatars.githubusercontent.com/u/76615094?v=4" > </a> | <a href="https://github.com/owl1753"> <img width="170px" src="https://avatars.githubusercontent.com/u/75308777?v=4" > </a> | <a href="https://github.com/ssolfa"> <img width="170px" src="https://avatars.githubusercontent.com/u/87332713?v=4" > </a> |
 - **참여자** : @MJ @Bori @Stella @Chae-ri @Juun @Jerome @Ssol
 - **일시 및 장소** : 유어슈 동아리방, 수요일 오후 4시 30분 - 5시 30분
 - **진행 일정** : 8-9월, 최대한 2학기 중간고사 전까지,,,
